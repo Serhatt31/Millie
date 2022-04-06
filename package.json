@@ -1,5 +1,5 @@
 {
-  "name": "Millie",
+  "name": "🍁zalioos🍁",
   "version": "1.1.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neera-j51/Millie.git"
+    "url": "git+www.instagram.com/zalioos"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "joker adanali gg",
+  "author": "S2Ş SERHAT",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Neera-j51/Millie/issues"
+    "url": "https://images.app.goo.gl/TTsRPLoGxtwPF7oh7"
   },
-  "homepage": "https://github.com/Neera-j51/Millie",
+  "homepage": "SerhaT",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "@bochilteam/scraper": "0.0.81",
