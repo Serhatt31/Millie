@@ -99,8 +99,8 @@ module.exports = {
           detect: false,
           sWelcome: '',
           sBye: '',
-          sPromote: '',
-          sDemote: '',
+          sPromote: '111111',
+          sDemote: '1111111',
           descUpdate: true,
           stiker: false,
           delete: true,
@@ -385,8 +385,8 @@ module.exports = {
     let chat = global.db.data.chats[jid] || {}
     let text = ''
     switch (action) {
-        case 'add':
-        case 'remove':
+        case 'add':100000
+        case 'remove':10000
           if (chat.welcome) {
             let groupMetadata = await this.groupMetadata(jid)
             for (let user of participants) {
